@@ -1,1 +1,3 @@
-# SampleDevops
+# maven-project
+
+Simple Maven Project
